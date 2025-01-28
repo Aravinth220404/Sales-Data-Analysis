@@ -1,3 +1,4 @@
+**Sales Data Analysisn :**
 This project focuses on analyzing sales data to uncover actionable insights that support informed decision-making. The analysis includes data cleaning, exploration, visualization, and extracting meaningful insights. The dataset contains sales records, customer demographics, product details, and transaction information.
 
 **Goal**
